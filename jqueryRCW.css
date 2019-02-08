@@ -1,0 +1,12 @@
+/*changes border green*/
+.countBorder{
+    border: green solid 3px;
+}
+/*changes border red*/
+.divBorder1{
+    border: red solid 3px;
+}
+/*changes border blue*/
+.divBorder2{
+    border: blue solid 3px;
+}
