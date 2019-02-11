@@ -1,3 +1,6 @@
+### POINTS: 2
+### KEY: Button toggle logic in CW2 a little off from what is asked for. Had to click 1st button twice to get it going, but overall a *really* nice job! Great comments as well.
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
